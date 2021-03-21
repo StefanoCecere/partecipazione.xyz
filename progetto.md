@@ -1,5 +1,7 @@
 # Informazioni sul progetto Hola Senior
 
+![](assets/banner_HolaSenior.jpg)
+
 ## il gioco
 
 abbiamo realizzato
